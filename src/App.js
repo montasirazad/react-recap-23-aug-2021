@@ -39,7 +39,7 @@ function App() {
 
   function Component(props) {
     return (
-      <div style={{border:'6px solid rgba(97, 243, 226, 1)',margin:'10px',padding:'5px',borderRadius:'5px',backgroundColor:'rgba(255, 132, 0, 1)'}}>
+      <div style={{border:'6px solid rgba(97, 243, 200, 1)',margin:'10px',padding:'5px',borderRadius:'5px',backgroundColor:'rgba(255, 150, 80, 1)'}}>
         <h1>oS : {props.name}</h1>
         <p>Making components for practice.</p>
       </div>
