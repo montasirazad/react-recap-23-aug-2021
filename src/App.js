@@ -20,7 +20,7 @@ function App() {
 
 
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
+        <p title='Learn React'>
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
@@ -28,6 +28,7 @@ function App() {
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
+          title='lorem10'
         >
           Learn React
         </a>
